@@ -1,0 +1,12 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.000000" height="32.000000" fill="none" customFrame="#000000">
+	<defs>
+		<clipPath id="clipPath_1">
+			<rect width="32.000000" height="32.000000" x="0.000000" y="0.000000" rx="16.000000" fill="rgb(255,255,255)" />
+		</clipPath>
+	</defs>
+	<rect id="Coinbase" width="32.000000" height="32.000000" x="0.000000" y="0.000000" fill="rgb(255,255,255)" fill-opacity="0" />
+	<g id="Coinbase" clip-path="url(#clipPath_1)" customFrame="url(#clipPath_1)">
+		<rect id="Coinbase" width="32.000000" height="32.000000" x="0.000000" y="0.000000" rx="16.000000" fill="rgb(29,78,216)" />
+		<path id="Vector" d="M4.75 16C4.75 22.2132 9.78678 27.25 16 27.25C22.2132 27.25 27.25 22.2132 27.25 16C27.25 9.78678 22.2132 4.75 16 4.75C9.78678 4.75 4.75 9.78678 4.75 16ZM13.125 12.375C12.7108 12.375 12.375 12.7108 12.375 13.125L12.375 18.875C12.375 19.2892 12.7108 19.625 13.125 19.625L18.875 19.625C19.2892 19.625 19.625 19.2892 19.625 18.875L19.625 13.125C19.625 12.7108 19.2892 12.375 18.875 12.375L13.125 12.375Z" fill="rgb(255,255,255)" fill-rule="evenodd" />
+	</g>
+</svg>

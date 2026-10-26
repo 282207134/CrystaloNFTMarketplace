@@ -1,0 +1,2 @@
+12bb61b3cf2ccc644f65b98886cfe59df8e066aa19b93ce8d37ac6d0a7123fc5  Crystalo-android-arm64.apk
+4107c6ff95af79304e9043c2006696ad1e9e04dceb241242010d9fdafdc24124  Crystalo-android-x64.apk

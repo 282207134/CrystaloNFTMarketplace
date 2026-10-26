@@ -1,0 +1,18 @@
+{
+  "platform": "android",
+  "screenshotsDirectory": "/data/user/0/com.crystalo.crystalo/code_cache/crystalo-screens",
+  "designScreens": 50,
+  "additionalScreenshots": 11,
+  "journeys": [
+    "favorite",
+    "bid",
+    "purchase",
+    "profile save",
+    "notification switch",
+    "create NFT",
+    "fixed-price listing",
+    "filter",
+    "search"
+  ],
+  "allPassed": true
+}
